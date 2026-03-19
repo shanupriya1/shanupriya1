@@ -1,16 +1,23 @@
-## Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/demo/?weight=600&size=24&color=00FFD1&center=true&vCenter=true&lines=Shanu+Priya;Computer+Science+Student)
+# Hi 👋, I'm Shanu Priya
 
-<!--
-**shanupriya1/shanupriya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 B.Tech CSE Student
+- 🔥 Building cool projects & learning daily
+- 🌱 Currently learning Python & AI
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- 💡 Languages: C, Python
+- ⚙️ Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Shanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanupriya1&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=shanupriya1&theme=radical)
+
+## 📫 Connect with me
+- 📧 Email: @gmail.com
+- 💼 LinkedIn: 
+## 😎 Fun Line
+"Not the best, just improving every commit 🚀"
